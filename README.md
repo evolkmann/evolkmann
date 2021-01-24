@@ -25,6 +25,7 @@ eventually copied to enough projects to justify creating a library.
 - [Graphile Ecosystem](https://github.com/graphile)
 - [BullMQ](https://github.com/taskforcesh/bullmq)
 - [Kubernetes](https://kubernetes.io/)
+- More on Stackshare: [evolkmann](https://stackshare.io/evolkmann) / [Exportarts](https://stackshare.io/exportarts/exportarts)
 
 ### My profile on other platforms
 
