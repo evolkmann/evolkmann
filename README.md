@@ -6,8 +6,9 @@ I am a software developer working in the [Angular](https://angular.io) and
 I spend most of my working time on customer projects at [Exportarts](https://www.exportarts.io),
 a web-design and web-development company which I co-founded in the end of 2017.
 Besides that, I am still part-time employed as a software developer at a German healthcare
-provider where I started in late 2014. I combine the knowledge and experiences from both
-working contexts and try to create as much synergy as possible.
+provider where I started in late 2014 after I finished school.
+I combine the knowledge and experiences from both working contexts
+and try to create as much synergy as possible.
 
 I am thankful for the open source community and all the tools and projects that it
 provides. After all, I would not be able to follow my passion without it.
