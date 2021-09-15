@@ -12,7 +12,7 @@ clients' companies and try to create as much synergy as possible.
 
 I am thankful for the open source community and all the tools and projects that it
 provides. After all, I would not be able to follow my passion without it.
-I also try to give something back whenever I see an opportunity.
+I try to give something back whenever I see an opportunity.
 
 As part of [our github organization](https://github.com/exportarts), I maintain a couple
 of small projects which were all created while working on customer projects and that were
@@ -26,6 +26,7 @@ eventually copied to enough projects to justify creating a library.
 - [Graphile Ecosystem](https://github.com/graphile)
 - [BullMQ](https://github.com/taskforcesh/bullmq)
 - [Kubernetes](https://kubernetes.io/)
+- [Shopware](https://github.com/shopware/platform)
 - More on Stackshare: [evolkmann](https://stackshare.io/evolkmann) / [Exportarts](https://stackshare.io/exportarts/exportarts)
 
 ### My profile on other platforms
