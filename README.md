@@ -1,6 +1,6 @@
 ### About Me
 
-I am a software developer working in the [Angular](https://angular.io) and
+I am a webdesigner and software developer spezialized in [Kirby](https://getkirby.com/), [Angular](https://angular.io) and
 [NodeJS](https://nodejs.org) ecosystem since about 2016.
 
 After a dual study program with a large German healthcare company and co-founding
@@ -10,6 +10,7 @@ since early 2023.
 
 ### Main Technologies and Frameworks
 
+- [Kirby CMS](https://getkirby.com/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Angular](https://angular.io)
 - [NestJS](https://nestjs.com)
